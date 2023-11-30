@@ -1,0 +1,106 @@
+[33mcommit 327c8f67bfa393cfcd77939c31518ee9c222e09d[m[33m ([m[1;36mHEAD -> [m[1;32mlogin[m[33m, [m[1;31morigin/login[m[33m)[m
+Author: Gabriel Bergamini <gabrielbergaminioficial@gmail.com>
+Date:   Tue Mar 14 20:41:52 2023 -0300
+
+    doidera
+
+[33mcommit 1e09645f247ec3b4488915e97d30508890a2561c[m
+Merge: 7c7821b 111eff3
+Author: Gabriel Bergamini <gabrielbergaminioficial@gmail.com>
+Date:   Tue Mar 14 20:38:45 2023 -0300
+
+    Merge branch 'main' into login
+
+[33mcommit 7c7821b59e5b671f54c4ec3771251ec8d867766c[m
+Author: Gabriel Bergamini <gabrielbergaminioficial@gmail.com>
+Date:   Tue Mar 14 20:31:11 2023 -0300
+
+    ajustando readme
+
+[33mcommit debb0bb3947a3dfd6874e72044d44d7198689a2c[m
+Author: Gabriel Bergamini <gabrielbergaminioficial@gmail.com>
+Date:   Tue Mar 14 20:28:31 2023 -0300
+
+    tudo pronto
+
+[33mcommit 2e81ef4c5e6caafc9910ac95141c5474532bd41a[m
+Author: Gabriel Bergamini <gabrielbergaminioficial@gmail.com>
+Date:   Tue Mar 14 20:27:58 2023 -0300
+
+    formulário pronto
+
+[33mcommit 4ef24f8698078b5e2b79b283ab1fe5c9011b9df8[m
+Author: Gabriel Bergamini <gabrielbergaminioficial@gmail.com>
+Date:   Mon Feb 27 17:34:46 2023 -0300
+
+    commit12
+
+[33mcommit 1775809a85f73adcf977d166acb1397b1b4ace9a[m
+Author: Gabriel Bergamini <gabrielbergaminioficial@gmail.com>
+Date:   Mon Feb 27 13:29:48 2023 -0300
+
+    ultimos ajustes
+
+[33mcommit 1c4b5c871016fb107ae57d3b1cfcfb4f1ae74b66[m
+Author: Gabriel Bergamini <gabrielbergaminioficial@gmail.com>
+Date:   Mon Feb 27 12:28:46 2023 -0300
+
+    mais um progresso
+
+[33mcommit 8ff98b134292cb812c65e89cd9dbc17a1969eee4[m
+Author: Gabriel Bergamini <gabrielbergaminioficial@gmail.com>
+Date:   Mon Feb 27 11:42:59 2023 -0300
+
+    restaurando arquivos
+
+[33mcommit 111eff3a9f220273aa759fe03be80def437a27b4[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Author: Gabriel Bergamini <gabrielbergaminioficial@gmail.com>
+Date:   Mon Feb 27 11:40:48 2023 -0300
+
+    commit2
+
+[33mcommit 24407f674fceee08f18e43778b82ee581b0585c7[m
+Author: Gabriel Bergamini <gabrielbergaminioficial@gmail.com>
+Date:   Mon Feb 27 11:39:25 2023 -0300
+
+    quase acabando
+
+[33mcommit 92865138ff69f5d87edacc21f01136aadd3be011[m
+Author: Gabriel Bergamini <gabrielbergaminioficial@gmail.com>
+Date:   Sat Feb 25 21:05:14 2023 -0300
+
+    commit inicio
+    
+    Iniciando o formulário.
+
+[33mcommit 154cea02e08c7f8cd78dcaa7b65dc6490997245d[m
+Author: Gabriel Bergamini <gabrielbergaminioficial@gmail.com>
+Date:   Sat Feb 25 19:45:40 2023 -0300
+
+    commit test
+
+[33mcommit 98ca6f0270b5939bfb25656d3839c3a871c7a43a[m
+Author: Gabriel Bergamini <gabrielbergaminioficial@gmail.com>
+Date:   Sat Feb 25 19:26:37 2023 -0300
+
+    login
+
+[33mcommit a43000fbcb8d56347ff0722839e71b75d76c198e[m
+Author: Gabriel Bergamini <gabrielbergaminioficial@gmail.com>
+Date:   Sat Feb 25 19:11:49 2023 -0300
+
+    portfolio.html
+
+[33mcommit 6c659df047c98389a5c0e188cb93586781f772b1[m
+Author: Gabriel Bergamini <gabrielbergaminioficial@gmail.com>
+Date:   Sat Feb 25 16:30:29 2023 -0300
+
+    commit inicio
+    
+    início do formulário.
+
+[33mcommit 172e5bedb9a355db06f259caaddfa84b37f0dc51[m
+Author: Gabriel Bergamini <gabrielbergaminioficial@gmail.com>
+Date:   Sat Feb 25 16:22:26 2023 -0300
+
+    Initial commit
